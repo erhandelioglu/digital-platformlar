@@ -1,6 +1,6 @@
 [
   { "name": "GAIN", "packageName": "com.trgain.mikrogain", "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=gain.tv", "webUrl": "https://www.gain.tv", "category": "Film & Dizi" },
-  { "name": "Tabii", "packageName": "com.trt.tabii.android", "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tabii.com", "webUrl": "https://www.tabii.com", "category": "Film & Dizi" },
+  { "name": "Tabii", "packageName": "com.trt.tabii.android", "logoUrl": "https://play-lh.googleusercontent.com/P9wHtpei8p4Z-6Y459_nOOnDYqasV2YIwvEo8EBfDdf65xYMq0iw8KyRj-W2zrLRxjTDf4rA8sJ9ZjdtJcd5Nzs=s96-rw", "webUrl": "https://www.tabii.com", "category": "Film & Dizi" },
   { "name": "tivibu GO", "packageName": "com.ttnet.tivibucep", "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=tivibu.com.tr", "webUrl": "https://www.tivibugo.com.tr", "category": "Film & Dizi" },
   { "name": "Max (HBO Max)", "packageName": "com.wbd.stream", "logoUrl": "https://www.hbomaxpartners.com/_next/static/media/HBO-Max-Iridescent.2d4d755b.png", "webUrl": "https://www.max.com", "category": "Film & Dizi" },
   { "name": "Netflix", "packageName": "com.netflix.mediaclient", "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=netflix.com", "webUrl": "https://www.netflix.com", "category": "Film & Dizi" },
