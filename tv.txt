@@ -1,3 +1,4 @@
+tvKaynaklari.add("https://iptv-org.github.io/iptv/countries/tr.m3u
 https://raw.githubusercontent.com/FurkanKalkan/TR-IPTV/main/TR-IPTV.m3u
 https://raw.githubusercontent.com/suphero/IPTV/master/TR.m3u
 https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/index.m3u
