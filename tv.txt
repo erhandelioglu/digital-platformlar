@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/FurkanKalkan/TR-IPTV/main/TR-IPTV.m3u
+https://raw.githubusercontent.com/suphero/IPTV/master/TR.m3u
+https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/index.m3u
+https://onureroz.com/indirmeler/turk/index.m3u
+https://onureroz.com/indirmeler/turk/all.m3u
+https://onureroz.com/indirmeler/turk/karma-index.m3u
+https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/SPORTV.m3u
+https://onureroz.com/indirmeler/dunya/index.m3u
