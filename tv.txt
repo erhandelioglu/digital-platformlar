@@ -1,2 +1,15 @@
 https://iptv-org.github.io/iptv/countries/tr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr_gem.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr_onetv.m3u
+https://raw.githubusercontent.com/FurkanKalkan/TR-IPTV/main/TR-IPTV.m3u
 https://raw.githubusercontent.com/suphero/IPTV/master/TR.m3u
+https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/index.m3u
+https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/SPORTV.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/Free-IPTV/refs/heads/main/Lists/TR-SS.m3u
+https://raw.githubusercontent.com/UzunMuhalefet/Free-IPTV/refs/heads/main/Lists/TR-STD.m3u
+https://onureroz.com/indirmeler/turk/index.m3u
+https://onureroz.com/indirmeler/turk/all.m3u
+https://onureroz.com/indirmeler/turk/karma-index.m3u
+https://onureroz.com/indirmeler/dunya/index.m3u
+https://download2392.mediafire.com/ahgdqzl4ztxguueUWxKsPJsbfOsrQ8hOCSog4QaJpFZGgGD7iXNTVSyxvLBa4DRCEfy7YWCKCcY4sZdrJQMe9ZgHWXpO51Tfv2f-yXFvJlj4ISjYYk9FxE3xMcfHBNsnawVjgIbatWlsfaN3s0GVwyDhA_kR8ZI8jCt4gpBUCMgdSYXg/g6opwz9v4vjxul3/ByteFixRepairsTurkIPTV.m3u
