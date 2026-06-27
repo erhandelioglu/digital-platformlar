@@ -1,3 +1,4 @@
+[
   {"tr": "Afganistan", "en": "Afghanistan", "code": "af", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Kabil", "phone": "93", "currency": "AFN", "tz": "UTC+4:30"},
   {"tr": "Almanya", "en": "Germany", "code": "de", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Berlin", "phone": "49", "currency": "EUR", "tz": "UTC+1"},
   {"tr": "Amerika Birleşik Devletleri", "en": "United States", "code": "us", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Washington, D.C.", "phone": "1", "currency": "USD", "tz": "UTC-5"},
@@ -209,3 +210,4 @@
   {"tr": "Reunion", "en": "Réunion", "code": "re", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Saint-Denis", "phone": "262", "currency": "EUR", "tz": "UTC+4"},
   {"tr": "Saint Helena", "en": "Saint Helena", "code": "sh", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Jamestown", "phone": "290", "currency": "SHP", "tz": "UTC+0"},
   {"tr": "Tokelau", "en": "Tokelau", "code": "tk", "cont_tr": "Okyanusya", "cont_en": "Oceania", "cont_code": "OC", "flag": "https://flagcdn.com", "capital": "Fale", "phone": "690", "currency": "NZD", "tz": "UTC+13"}
+]
