@@ -18,7 +18,7 @@
   {"tr": "Belize", "en": "Belize", "code": "bz", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Belmopan", "phone": "501", "currency": "BZD", "tz": "UTC-6"},
   {"tr": "Benin", "en": "Benin", "code": "bj", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Porto-Novo", "phone": "229", "currency": "XOF", "tz": "UTC+1"},
   {"tr": "Beyaz Rusya", "en": "Belarus", "code": "by", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Minsk", "phone": "375", "currency": "BYN", "tz": "UTC+3"},
-  {"tr": "Bhutan", "en": "Bhutan", "code": "bt", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Thimphu", "phone": "975", "currency": "BTN", "tz": "UTC+5:30"}
+  {"tr": "Bhutan", "en": "Bhutan", "code": "bt", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Thimphu", "phone": "975", "currency": "BTN", "tz": "UTC+5:30"},
   {"tr": "Birleşik Arap Emirlikleri", "en": "United Arab Emirates", "code": "ae", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Abu Dabi", "phone": "971", "currency": "AED", "tz": "UTC+4"},
   {"tr": "Birleşik Krallık", "en": "United Kingdom", "code": "gb", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Londra", "phone": "44", "currency": "GBP", "tz": "UTC+0"},
   {"tr": "Bolivya", "en": "Bolivia", "code": "bo", "cont_tr": "Güney Amerika", "cont_en": "South America", "cont_code": "SA", "flag": "https://flagcdn.com", "capital": "Sucre", "phone": "591", "currency": "BOB", "tz": "UTC-4"},
@@ -38,7 +38,7 @@
   {"tr": "Çekya", "en": "Czechia", "code": "cz", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Prag", "phone": "420", "currency": "CZK", "tz": "UTC+1"},
   {"tr": "Çin", "en": "China", "code": "cn", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Pekin", "phone": "86", "currency": "CNY", "tz": "UTC+8"},
   {"tr": "Danimarka", "en": "Denmark", "code": "dk", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Kopenhag", "phone": "45", "currency": "DKK", "tz": "UTC+1"},
-  {"tr": "Doğu Timor", "en": "East Timor", "code": "tl", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Dili", "phone": "670", "currency": "USD", "tz": "UTC+9"}
+  {"tr": "Doğu Timor", "en": "East Timor", "code": "tl", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Dili", "phone": "670", "currency": "USD", "tz": "UTC+9"},
   {"tr": "Dominik Cumhuriyeti", "en": "Dominican Republic", "code": "do", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Santo Domingo", "phone": "1-809", "currency": "DOP", "tz": "UTC-4"},
   {"tr": "Dominika", "en": "Dominica", "code": "dm", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Roseau", "phone": "1-767", "currency": "XCD", "tz": "UTC-4"},
   {"tr": "Ekvador", "en": "Ecuador", "code": "ec", "cont_tr": "Güney Amerika", "cont_en": "South America", "cont_code": "SA", "flag": "https://flagcdn.com", "capital": "Quito", "phone": "593", "currency": "USD", "tz": "UTC-5"},
@@ -59,7 +59,7 @@
   {"tr": "Fransa", "en": "France", "code": "fr", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Paris", "phone": "33", "currency": "EUR", "tz": "UTC+1"},
   {"tr": "Gabon", "en": "Gabon", "code": "ga", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Libreville", "phone": "241", "currency": "XAF", "tz": "UTC+1"},
   {"tr": "Gambiya", "en": "Gambia", "code": "gm", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Banjul", "phone": "220", "currency": "GMD", "tz": "UTC+0"},
-  {"tr": "Gana", "en": "Ghana", "code": "gh", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Akra", "phone": "233", "currency": "GHS", "tz": "UTC+0"}
+  {"tr": "Gana", "en": "Ghana", "code": "gh", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Akra", "phone": "233", "currency": "GHS", "tz": "UTC+0"},
   {"tr": "Gine", "en": "Guinea", "code": "gn", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Konakri", "phone": "224", "currency": "GNF", "tz": "UTC+0"},
   {"tr": "Gine-Bissau", "en": "Guinea-Bissau", "code": "gw", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Bissau", "phone": "245", "currency": "XOF", "tz": "UTC+0"},
   {"tr": "Grenada", "en": "Grenada", "code": "gd", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Saint George's", "phone": "1-473", "currency": "XCD", "tz": "UTC-4"},
@@ -76,7 +76,7 @@
   {"tr": "Honduras", "en": "Honduras", "code": "hn", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Tegucigalpa", "phone": "504", "currency": "HNL", "tz": "UTC-6"},
   {"tr": "Irak", "en": "Iraq", "code": "iq", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Bağdat", "phone": "964", "currency": "IQD", "tz": "UTC+3"},
   {"tr": "İran", "en": "Iran", "code": "ir", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Tahran", "phone": "98", "currency": "IRR", "tz": "UTC+3:30"},
-  {"tr": "İrlanda", "en": "Ireland", "code": "ie", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Dublin", "phone": "353", "currency": "EUR", "tz": "UTC+0"}
+  {"tr": "İrlanda", "en": "Ireland", "code": "ie", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Dublin", "phone": "353", "currency": "EUR", "tz": "UTC+0"},
   {"tr": "İspanya", "en": "Spain", "code": "es", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Madrid", "phone": "34", "currency": "EUR", "tz": "UTC+1"},
   {"tr": "İsrail", "en": "Israel", "code": "il", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Kudüs", "phone": "972", "currency": "ILS", "tz": "UTC+2"},
   {"tr": "İsveç", "en": "Sweden", "code": "se", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Stokholm", "phone": "46", "currency": "SEK", "tz": "UTC+1"},
@@ -91,7 +91,7 @@
   {"tr": "Karadağ", "en": "Montenegro", "code": "me", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Podgoritsa", "phone": "382", "currency": "EUR", "tz": "UTC+1"},
   {"tr": "Katar", "en": "Qatar", "code": "qa", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Doha", "phone": "974", "currency": "QAR", "tz": "UTC+3"},
   {"tr": "Kazakistan", "en": "Kazakhstan", "code": "kz", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Astana", "phone": "7", "currency": "KZT", "tz": "UTC+6"},
-  {"tr": "Kenya", "en": "Kenya", "code": "ke", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Nairobi", "phone": "254", "currency": "KES", "tz": "UTC+3"}
+  {"tr": "Kenya", "en": "Kenya", "code": "ke", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Nairobi", "phone": "254", "currency": "KES", "tz": "UTC+3"},
   {"tr": "Kırgızistan", "en": "Kyrgyzstan", "code": "kg", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Bişkek", "phone": "996", "currency": "KGS", "tz": "UTC+6"},
   {"tr": "Kıbrıs", "en": "Cyprus", "code": "cy", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Lefkoşa", "phone": "357", "currency": "EUR", "tz": "UTC+2"},
   {"tr": "Kiribati", "en": "Kiribati", "code": "ki", "cont_tr": "Okyanusya", "cont_en": "Oceania", "cont_code": "OC", "flag": "https://flagcdn.com", "capital": "Güney Tarava", "phone": "686", "currency": "AUD", "tz": "UTC+12"},
